@@ -1,3 +1,11 @@
+/**
+* Class: Switch
+*@Author: Derron
+*@Course: ITEC 2140
+*@Date;9/27/2022
+*@Description: This code that randomly generates characters from index 65 to 122, then uses switch case with fall through to check the categories.
+*/
+    
 import java.util.Random;
 
 public class Switch {
